@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A front-end developer using JavaScript with love for Design.
+  A front-end developer using JavaScript with love for Design
 </p>
 
 <p align='center'>
