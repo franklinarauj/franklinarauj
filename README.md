@@ -89,7 +89,7 @@
 <img align="right" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />
 
 - 👨‍💻 **Technical Support Intern 1**\
-📆 January 2017 - September 2019\
+📆 January 2017 - September 2018\
 📍 **Active Comércio e Serviços Ltda** - Brasilia/DF, Brazil
 
 ## Programming Skills
@@ -150,3 +150,7 @@
 </p>
 
 </details>
+
+<p align='right'> 
+  <b>This profile in <a href="/README_pt-BR.md">Português Brasileiro</a></b>
+</p>
