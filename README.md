@@ -38,6 +38,10 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklinarauj&layout=compact" width="350"></a>
 </p>
 
+<p align='center'>🎧 Playing on my spotify now</p>
+
+[<p align='center'><img src="https://novatorem-franklinarauj.vercel.app/api/spotify" alt="Franklin Araújo Spotify Playing" width="350"/></p>](https://open.spotify.com/user/22fik5wvc3hhx37hgndx5xzgi?si=52f2a921dbbb4b18)
+
 <p align='center'>
   📫 Any contact with me: <a href='mailto:franklinarauj@gmail.com'>franklinarauj@gmail.com</a> 
 </p>
