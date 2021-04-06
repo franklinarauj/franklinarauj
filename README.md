@@ -116,7 +116,7 @@
 
 - 🖱️ **I studied and worked**
 
-<img align="right" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<img align="right" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
@@ -129,7 +129,7 @@
 
 <p align='center'>
    <a href="https://open.spotify.com/user/22fik5wvc3hhx37hgndx5xzgi">  
-    <img src="https://img.shields.io/badge/spotify-&#xe126.svg?&style=for-the-badge&logo=spotify&logoColor=white" />        
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/works.arauj/">  
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
