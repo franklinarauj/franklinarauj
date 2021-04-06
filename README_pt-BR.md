@@ -56,8 +56,7 @@
 
 ## Educação 
 
-<img align="right" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -111,17 +110,40 @@
 <img align="right" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=Cypress&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Figma-F24E1E?&style=for-the-badge&logo=Figma&logoColor=white" />
 
 - 🖱️ **Estudei e Trabalhei**
 
 <img align="right" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Insomnia-5849BE?&style=for-the-badge&logo=Insomnia&logoColor=white" />
 
 - ⌨️ **Tenho Conhecimento e Uso**
+
+<img align="right" src="https://img.shields.io/badge/ChatBot-FFD000?style=for-the-badge&logo=ChatBot&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Adobe_XD-FF61F6?&style=for-the-badge&logo=Adobe-XD&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+
+- 📚 **Eu Gostaria de Aprender**
+
+## Softwares do Dia-a-Dia
+
+- ⚙️ **Alguns programas que uso no meu cotidiano**
+
+<p align='center'>
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-2a92de?&style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Lightroom-00588a?&style=for-the-badge&logo=Adobe-Lightroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-7289DA?&style=for-the-badge&logo=Discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/OBS_Studio-302E31?&style=for-the-badge&logo=OBS-Studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Crunchyroll-F47521?&style=for-the-badge&logo=Crunchyroll&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Keep-FFBB00?style=for-the-badge&logo=Google-Keep&logoColor=white" />
+</p>
 
 ## Curiosidades e Hobbies
 
@@ -138,7 +160,7 @@
     <img src="https://img.shields.io/badge/tumblr-&#xe0c0.svg?&color=001935&style=for-the-badge&logo=tumblr&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://www.behance.net/franklinarauj">
-    <img src="https://img.shields.io/badge/behance-&#xe0b3.svg?&color=blue&style=for-the-badge&logo=behance&logoColor=white" />        
+    <img src="https://img.shields.io/badge/behance-&#1769FF.svg?&color=blue&style=for-the-badge&logo=behance&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://steamcommunity.com/id/franklindo/">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />        
@@ -147,7 +169,7 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://github.com/franklinarauj">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.paypal.com/donate?business=M4RY37Y2ADAYG&currency_code=USD">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />        
