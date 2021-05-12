@@ -68,6 +68,15 @@
 
 ## Experiência
 
+<img align="right" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white" />
+
+- 👨‍💻 **Web Designer Pleno**\
+📆 Abril de 2021 - Momento\
+📍 **Stefanini IT Solutions** - Brasília/DF, Brasil
+
 <img align="right" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -76,7 +85,7 @@
 <img align="right" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
 
 - 👨‍💻 **Estagiário de Desenvolvimento**\
-📆 Maio de 2019 - Momento\
+📆 Maio de 2019 - Maio de 2021\
 📍 **Procuradoria da República do Distrito Federal - Ministério Público Federal** - Brasília/DF, Brasil
 
 <img align="right" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
