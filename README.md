@@ -68,6 +68,15 @@
 
 ## Experience
 
+<img align="right" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white" />
+
+- 👨‍💻 **Web Designer**\
+📆 April 2021 - Moment\
+📍 **Stefanini IT Solutions** - Brasilia/DF, Brazil
+
 <img align="right" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -76,7 +85,7 @@
 <img align="right" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
 
 - 👨‍💻 **Development Intern**\
-📆 May 2019 - Moment\
+📆 May 2019 - May 2021\
 📍 **Federal Attorney's Office in the Federal District - Federal Public Ministry** - Brasilia/DF, Brazil
 
 <img align="right" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
@@ -137,7 +146,7 @@
 - ⚙️ **Some programs I use in my daily life**
 
 <p align='center'>
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-2a92de?&style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-2a92de?&style=for-the-badge&logo=Adobe-Photoshop&logoColor=white&" />
   <img src="https://img.shields.io/badge/Adobe_Lightroom-00588a?&style=for-the-badge&logo=Adobe-Lightroom&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord-7289DA?&style=for-the-badge&logo=Discord&logoColor=white" />
   <img src="https://img.shields.io/badge/OBS_Studio-302E31?&style=for-the-badge&logo=OBS-Studio&logoColor=white" />
