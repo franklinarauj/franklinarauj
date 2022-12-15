@@ -65,7 +65,7 @@
 <img align="right" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white" />
 
-- 🎓 **Ciência da Computação**\
+- 🎓 **Bacharelado em Ciência da Computação**\
 📆 2018 - 2021\
 📍 **Centro Universitário de Brasília - UniCEUB** - Brasília/DF, Brasil
 
