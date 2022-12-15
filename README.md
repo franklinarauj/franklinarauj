@@ -131,8 +131,8 @@
 
 - 💻 **Currently**
 
-<img align="right" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Adobe_XD-FF61F6?&style=for-the-badge&logo=Adobe-XD&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=Cypress&logoColor=white" />
@@ -142,18 +142,18 @@
 
 <img align="right" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Insomnia-5849BE?&style=for-the-badge&logo=Insomnia&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 - ⌨️ **I'm aware and I've used**
 
 <img align="right" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Adobe_XD-FF61F6?&style=for-the-badge&logo=Adobe-XD&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="right" src="https://img.shields.io/badge/Insomnia-5849BE?&style=for-the-badge&logo=Insomnia&logoColor=white" />
 
 - 📚 **I would like to learn**
 
