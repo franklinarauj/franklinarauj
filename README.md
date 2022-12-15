@@ -30,13 +30,13 @@
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/AMD%20Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSD-512GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSD-1TB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-rtx%203050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=franklinarauj&show_icons=true&count_private=true&theme=graywhite  " width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=franklinarauj&show_icons=true&count_private=true&theme=graywhite" width="350"></a>
   <br>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklinarauj&layout=compact" width="350"></a>
 </p>
@@ -65,7 +65,7 @@
 <img align="right" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white" />
 
-- 🎓 **Computer Science**\
+- 🎓 **Bachelor's Degree in Computer Science**\
 📆 2018 - 2021\
 📍 **University Center of Brasilia - UniCEUB** - Brasilia/DF, Brazil
 
@@ -122,11 +122,11 @@
 
 ## Programming Skills
 
-<img align="right" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Figma-F24E1E?&style=for-the-badge&logo=Figma&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="right" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="right" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 <img align="right" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 
 - 💻 **Currently**
@@ -142,10 +142,9 @@
 
 <img align="right" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Insomnia-5849BE?&style=for-the-badge&logo=Insomnia&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 
 - ⌨️ **I'm aware and I've used**
 
@@ -154,6 +153,7 @@
 <img align="right" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 - 📚 **I would like to learn**
 
