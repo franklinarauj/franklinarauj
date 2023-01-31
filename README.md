@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A front-end developer using JavaScript with love for Design
+  A fullstack developer using JavaScript with love for Design
 </p>
 
 <p align='center'>
@@ -59,7 +59,7 @@
 
 ## Education 
 
-<img align="right" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -71,6 +71,17 @@
 
 ## Experience
 
+<img align="right" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
+<img align="right" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+
+- 👨‍💻 **Fullstack Developer Analyst**\
+📆 January 2023 - Moment\
+📍 **Datainfo** - Brasilia/DF, Brazil
+
 <img align="right" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
@@ -79,8 +90,8 @@
 <img align="right" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 
 - 👨‍💻 **Front-end Developer**\
-📆 February 2022 - Moment\
-📍 **Rocketwave Technology Ltd.** - Brasilia/DF, Brazil 
+📆 February 2022 - December 2022\
+📍 **Rocketwave Technology Ltd.** - Brasilia/DF, Brazil
  
 <img align="right" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
@@ -123,7 +134,7 @@
 ## Programming Skills
 
 <img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Insomnia-5849BE?&style=for-the-badge&logo=Insomnia&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Figma-F24E1E?&style=for-the-badge&logo=Figma&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="right" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
@@ -135,7 +146,6 @@
 <img align="right" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=Cypress&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 
 - 🖱️ **I studied and worked**
@@ -149,17 +159,32 @@
 
 - ⌨️ **I'm aware and I've used**
 
-<img align="right" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Insomnia-5849BE?&style=for-the-badge&logo=Insomnia&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=Cypress&logoColor=white" />
 
 - 📚 **I would like to learn**
+  
+## Work Technologies
+
+- ⚙️ **Some softwares or technologies I use in my job**
+
+<p align='center'>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+</p>
 
 ## Day-to-Day Softwares
 
-- ⚙️ **Some programs I use in my daily life**
+- ⚙️ **Some softwares I use in my daily life or in personal projects**
 
 <p align='center'>
   <img src="https://img.shields.io/badge/Adobe_Photoshop-2a92de?&style=for-the-badge&logo=Adobe-Photoshop&logoColor=white&" />
@@ -195,6 +220,9 @@
   </a>&nbsp;&nbsp;
   <a href="https://psnprofiles.com/TheFranklin975">
     <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://tracker.gg/valorant/profile/riot/Franklindo%23BR1/overview">
+    <img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://medium.com/@franklinarauj">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
