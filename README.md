@@ -46,7 +46,7 @@
 [<p align='center'><img src="https://novatorem-franklinarauj.vercel.app/api/spotify" alt="Franklin Araújo Spotify Playing" width="350"/></p>](https://open.spotify.com/user/22fik5wvc3hhx37hgndx5xzgi?si=52f2a921dbbb4b18)
 
 <p align='center'>
-  📫 Any contact with me: <a href='mailto:franklinarauj@gmail.com'>franklinarauj@gmail.com</a> 
+  📫 Any contact with me: <a href='mailto:franklinarauj.contato@gmail.com'>franklinarauj.contato@gmail.com</a> 
 </p>
 
 <p align='center'> 
